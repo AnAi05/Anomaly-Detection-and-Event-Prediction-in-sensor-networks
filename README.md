@@ -41,7 +41,7 @@ We used the Gradient Boosting model to determine the importance of each feature.
 - **Area**: Important factor influencing the model's performance.
 - **Sensing Range**: Contributes to the model’s predictions but is less important compared to other features.
 
-![Feature Importance](path/to/your/image.png)
+<!--![Feature Importance](path/to/your/image.png)-->
 
 ## Model Evaluation
 
