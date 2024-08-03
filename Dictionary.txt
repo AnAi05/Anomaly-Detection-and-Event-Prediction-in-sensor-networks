@@ -1,0 +1,5 @@
+Area: Size of the geographical region under observation (numeric).
+Sensing Range: Maximum distance for sensing events (numeric).
+Transmission Range: Maximum distance for data communication (numeric).
+Number of Sensor Nodes: Total count of deployed sensors (numeric).
+Number of Barriers: Quantity of obstacles within the area (numeric).
